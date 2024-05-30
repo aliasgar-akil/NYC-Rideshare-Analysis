@@ -1,0 +1,31 @@
+Route,total_profit
+Manhattan to Manhattan,3.3385772555002284E8
+Brooklyn to Brooklyn,1.7394472147999206E8
+Queens to Queens,1.1470684719998911E8
+Manhattan to Queens,1.0173842820999998E8
+Queens to Manhattan,8.603540026000004E7
+Manhattan to Unknown,8.010710241999994E7
+Bronx to Bronx,7.414622575999324E7
+Manhattan to Brooklyn,6.799047559E7
+Brooklyn to Manhattan,6.3176161049999975E7
+Brooklyn to Queens,5.045416243000009E7
+Queens to Brooklyn,4.7292865360000156E7
+Queens to Unknown,4.6292999900000036E7
+Bronx to Manhattan,3.2486325170000095E7
+Manhattan to Bronx,3.1978763450000063E7
+Manhattan to EWR,2.3750888619999982E7
+Brooklyn to Unknown,1.0848827569999997E7
+Bronx to Unknown,1.0464800209999995E7
+Bronx to Queens,1.0292266499999996E7
+Queens to Bronx,1.0182898729999997E7
+Staten Island to Staten Island,9686862.45000001
+Brooklyn to Bronx,5848822.560000001
+Bronx to Brooklyn,5629874.41
+Brooklyn to EWR,3292761.7100000004
+Brooklyn to Staten Island,2417853.820000001
+Staten Island to Brooklyn,2265856.460000001
+Manhattan to Staten Island,2223727.370000001
+Staten Island to Manhattan,1612227.72
+Queens to EWR,1192758.6600000001
+Staten Island to Unknown,891285.8100000003
+Queens to Staten Island,865603.3800000001

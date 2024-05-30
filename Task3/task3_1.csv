@@ -1,0 +1,26 @@
+Pickup_Borough,Month,trip_count
+Manhattan,1,5854818
+Brooklyn,1,3360373
+Queens,1,2589034
+Bronx,1,1607789
+Staten Island,1,173354
+Manhattan,2,5808244
+Brooklyn,2,3283003
+Queens,2,2447213
+Bronx,2,1581889
+Staten Island,2,166328
+Manhattan,3,6194298
+Brooklyn,3,3632776
+Queens,3,2757895
+Bronx,3,1785166
+Staten Island,3,191935
+Manhattan,4,6002714
+Brooklyn,4,3481220
+Queens,4,2666671
+Bronx,4,1677435
+Staten Island,4,175356
+Manhattan,5,5965594
+Brooklyn,5,3586009
+Queens,5,2826599
+Bronx,5,1717137
+Staten Island,5,189924

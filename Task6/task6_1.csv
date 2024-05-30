@@ -1,0 +1,8 @@
+Pickup_Borough,time_of_day,trip_count
+EWR,night,3
+EWR,afternoon,2
+Unknown,morning,892
+Unknown,afternoon,908
+Unknown,evening,488
+EWR,morning,5
+Unknown,night,792
